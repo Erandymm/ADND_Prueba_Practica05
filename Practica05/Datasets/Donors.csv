@@ -41,10 +41,10 @@ dc815fe7ceda8bbb71710434134c6c92,Miami,Florida,Yes,563
 66aa9385dd59ba7136b824817b3a4e3e,Raleigh,North Carolina,No,409
 c8fe3ccdc8b8d9c6ed3049cf43e458fc,Buffalo,New York,No,758
 a97065e18e46d534c88a618efed4057d,Evanston,Illinois,Yes,232
-bc594585944528c00ef8c2d6f7fd5646,El Paso,Texas,No,061
+bc594585944528c00ef8c2d6f7fd5646,El Paso,Texas,No,61
 eb5cf46780bacd647a0ecfea958ca9ba,Tampa,Florida,Yes,530
 118a9d292f923996d9f195d014822f53,El Paso,Texas,No,423
-91d63f78e3e9de99f10c718b1eb0e38a,Oakland,California,Yes,093
+91d63f78e3e9de99f10c718b1eb0e38a,Oakland,California,Yes,93
 90b2b633956b8c0ca8499b926b5252e3,Austin,Texas,Yes,743
 655238a643ff50113d1a85dd506e5a9a,Sacramento,California,No,333
 12922f83ef8c485bc07a30f2edd4253b,Oakland,California,No,112
@@ -60,7 +60,7 @@ f05db76e1a84a51aa9d3d7c7ee87905e,Orlando,Florida,Yes,119
 25e979778d7248e2951f58d05e84f058,New York,New York,No,930
 dc570131f8e1daa7cbceabdeeededb07,San Diego,California,Yes,265
 c7b5b2bc5a8aaeca1a50aec3aabc25fa,San Antonio,Texas,No,777
-3c9ad14cee0caeb5ecfedb992790cebd,Tampa,Florida,No,035
+3c9ad14cee0caeb5ecfedb992790cebd,Tampa,Florida,No,35
 550a1b46ecab3301bc8f7d292dea9493,Naperville,Illinois,No,894
 444d610b3f87e362cf8d446abc2cbb0d,Sacramento,California,Yes,903
 38f16a81787f2425dbccc47709e9db0a,San Jose,California,No,850
@@ -70,7 +70,7 @@ c5f8bc16f7860b5011c58ef0dd463c09,Sacramento,California,No,705
 fbc9f87af668a61794a1875d2db69edb,Los Angeles,California,No,363
 6fb78271504d281fc9535b63ba81edd9,Fort Worth,Texas,Yes,931
 0b5cea6a41357e8c30a900ad939b462d,Chicago,Illinois,No,835
-f0b5156bb82c9074afd5dea589d7fd6c,Evanston,Illinois,No,081
+f0b5156bb82c9074afd5dea589d7fd6c,Evanston,Illinois,No,81
 5487fd4febb7a385aa0b7b14f2e9702d,El Paso,Texas,No,747
 4f2d479681d2c7de4ce1eb90e6697833,Aurora,Illinois,No,312
 6ba25efe311c6eb62095eef68dedf9fb,Naperville,Illinois,No,934
@@ -88,7 +88,7 @@ b8225688d0a444329cd6c852714c7df4,Jacksonville,Florida,No,571
 be6033f728be9288e5af6e39722764e6,Jacksonville,Florida,No,263
 c40c5d9146fde062a33dc7afd701410d,Naperville,Illinois,No,291
 49257af1b6aae05b13d5f2f7709b7d97,San Diego,California,No,563
-3b33f3d8269cd696236c7b8714a0bccb,Brooklyn,New York,No,075
+3b33f3d8269cd696236c7b8714a0bccb,Brooklyn,New York,No,75
 8ae8905b54b4a48268586eba6a34c854,New York,New York,Yes,440
 95863a76c51155ffe7a37e8163b4c08b,Charlotte,North Carolina,No,793
 018267c47a1b58066160a6b49360715f,Greensboro,North Carolina,No,883
@@ -113,7 +113,7 @@ b0cc1b3b9793b9b41374814632c5bd89,Tampa,Florida,Yes,801
 da09dfa052828d8044b591f797ac6aa8,Los Angeles,California,No,471
 91e1aa9676f72255c01f36bf3e6dd58b,San Antonio,Texas,No,516
 7cd0129d2e8d0e87533420e6d9d80b8d,San Diego,California,No,911
-46b98991e14eb70db380c73a989d9d4a,Fort Worth,Texas,No,097
+46b98991e14eb70db380c73a989d9d4a,Fort Worth,Texas,No,97
 7d137018680bac63b856d0353dc98290,Dallas,Texas,No,671
 cafda61372bb912d7da67785b63b4dc3,San Diego,California,Yes,718
 94e0d3baa9f948b24e6384bb3e493f43,Rochester,New York,No,445
@@ -121,11 +121,11 @@ cafda61372bb912d7da67785b63b4dc3,San Diego,California,Yes,718
 314d3441b8a6171f1ee34dc43b048a8b,Queens,New York,No,790
 3764fbda3108d4482f65fafab0ae8f08,Aurora,Illinois,No,788
 fb02bebb48729a4d98c7472a864e9a13,San Francisco,California,No,379
-b540b30e039f3a254d6168bd2defe193,Austin,Texas,Yes,065
-f1afdb65b289f2244ac9778d8da8eee4,San Jose,California,Yes,022
+b540b30e039f3a254d6168bd2defe193,Austin,Texas,Yes,65
+f1afdb65b289f2244ac9778d8da8eee4,San Jose,California,Yes,22
 7a8d03aa782a65e048ca765192f5df7b,Brooklyn,New York,No,268
 1d34d08e7a4c75d4dc99e04cf0e98b3b,Jacksonville,Florida,No,600
-26d794d30db95301afbb411aa1235a8c,Oakland,California,No,097
+26d794d30db95301afbb411aa1235a8c,Oakland,California,No,97
 8edddfcd1e52d7703f897142fe716b14,Rockford,Illinois,No,643
 6160745985c7504bc693da1139c6a1ca,Buffalo,New York,No,612
 9191b3634e2d66456dc7cac7fd72b050,Fort Worth,Texas,No,111
@@ -133,17 +133,17 @@ a021c0ca3531968dc342bd2bf295456e,Sacramento,California,Yes,255
 2812859a1337739e8d4f5d272c7f0b79,San Jose,California,No,491
 49c13de73b4206c5085b15fb4a8ff810,Naperville,Illinois,Yes,249
 ca8f3653c9af18f843b9da13ec856f37,El Paso,Texas,No,212
-398d1ca68b6870b51d61fac36cd5e859,Austin,Texas,No,083
+398d1ca68b6870b51d61fac36cd5e859,Austin,Texas,No,83
 4ebfa5c3cae9b4a72a79ea680f44704f,Fort Worth,Texas,No,459
 4dd8eb85b04d337677fc97031fd5a423,Aurora,Illinois,No,515
-0a3450fc9918ee461497d6587010f719,Orlando,Florida,No,036
-ac9ed156f63fce413a9aca5e176132ed,Tallahassee,Florida,No,031
+0a3450fc9918ee461497d6587010f719,Orlando,Florida,No,36
+ac9ed156f63fce413a9aca5e176132ed,Tallahassee,Florida,No,31
 d248a9a7ac1aa554c3c75611ffe3fa49,Los Angeles,California,No,189
 7135f221a6c9537f84dad06a7872bdeb,Raleigh,North Carolina,No,456
 f81401027de1bdfed0725b5ca2814044,San Diego,California,No,338
 292bd156db9465701ac70ec0ab8ddeb4,Queens,New York,No,688
 c2b01cfdd045dd1c668409e3f1f8343e,San Antonio,Texas,Yes,268
-c5c5b37af85e06a11dad09b252c21221,Rochester,New York,No,011
+c5c5b37af85e06a11dad09b252c21221,Rochester,New York,No,11
 764414fd8ae769edde8ede0ba85c6e4a,Brooklyn,New York,No,647
 71299889a01ac9927f9d3e64c1a6423b,Evanston,Illinois,No,144
 e17f29e17028604649bc473fed7bf656,Chicago,Illinois,Yes,655
@@ -159,20 +159,20 @@ fb140bc3304b8590de9e37575260001e,Rockford,Illinois,No,886
 517400f80b2c782a69288e92c68a152f,Naperville,Illinois,No,689
 fb16e5dba6eab79ed21c82f8cada4f80,Los Angeles,California,Yes,998
 19b17e80dea4ae1754fd9ad39716108e,Jacksonville,Florida,Yes,942
-24e75e8eb8f2142303edd1f874f93d17,Queens,New York,No,086
-43d88870f81dbaa1c8120a8e78308930,Queens,New York,No,092
+24e75e8eb8f2142303edd1f874f93d17,Queens,New York,No,86
+43d88870f81dbaa1c8120a8e78308930,Queens,New York,No,92
 aca2b148da330aa1541cdfcdda0d4a5f,Jacksonville,Florida,No,651
 7cea2045c268283ee32f2e63b7fddd71,Miami,Florida,No,250
 4991ab9bebc2026faf34cf65a193c4b2,London,other,No,110
 df615a5cb4323070a23d4c2fc2a79689,San Francisco,California,No,935
 cbd00ef2530a37df0bc610660769165f,San Diego,California,No,159
-90e0a95b697c392387fa841a3e83b91f,Evanston,Illinois,Yes,090
+90e0a95b697c392387fa841a3e83b91f,Evanston,Illinois,Yes,90
 9ea556aa61ee6c5bdeef580f9c07a751,Naperville,Illinois,No,156
 4104a8b5a34db7c5760debbb3b70b3a1,Queens,New York,Yes,833
 ad77e82f49a23a89e6b5a92c771ad655,Houston,Texas,No,363
 a3917c994c955f6a966b1964fcd6bdca,Paris,other,No,319
 da743152627b41a1ffd6f23232ffe294,Brooklyn,New York,No,377
-b303f438fe2110d04bbe4aff9326dffd,Sacramento,California,No,018
+b303f438fe2110d04bbe4aff9326dffd,Sacramento,California,No,18
 c73f6e1baf908e3cdd750e9890e0b95f,Chicago,Illinois,No,773
 e726be23e776b886d534ee1d7f2984f5,San Francisco,California,No,370
 9ef2b93e30ac7d7ba2f963a33810ae66,Sacramento,California,No,707
@@ -193,9 +193,209 @@ be3e6e57f30a9e32aba4fc035efa9c5b,Rockford,Illinois,No,770
 b0b63bcf08601833479d0cdaf396ea37,Buffalo,New York,No,251
 fb1e143b196f4dfa5cd8fe1adafec8a9,Rockford,Illinois,No,670
 46a02a9b65ec7acd0f8035f55bd20c98,Los Angeles,California,No,853
-364c911aa9ab364a1777e8cb74685b98,Fort Worth,Texas,No,061
+364c911aa9ab364a1777e8cb74685b98,Fort Worth,Texas,No,61
 fd235def3e5a87e35560db22c96b5edb,Oakland,California,Yes,859
 961d33ba350843f08de08fc2c3e15a85,San Francisco,California,No,161
 00b9d4a3989240ace68933a9c9e48e8c,San Francisco,California,No,563
 1c24220e2cabd7e7cc6b66e5402adf9c,Chicago,Illinois,Yes,376
 96bf10ab3ce915e7c9d6a63bca3c6f5f,Brooklyn,New York,No,139
+e6296e17df39eb6c3065f1e61cc4b65e,Los Angeles,CA,Yes,239
+9ced1a423364dead25c65d98783d678f,Los Angeles,CA,No,545
+c183357a972fcb491f265c3cb316af75,Los Angeles,CA,No,444
+53d8c3277a4a0d7dfdca1c3712cb7b1e,Los Angeles,CA,Yes,572
+6bf5c3cee146861141e42fdadb694c37,Los Angeles,CA,Yes,960
+1b6002239c8b81beec9a7ae26a82c8f0,Los Angeles,CA,Yes,619
+51e4c0264cfc6ad1311489ff1b401792,Los Angeles,CA,No,527
+6c44d5a383319987f26b04d3debcbbca,Los Angeles,CA,No,333
+0999d2269ce113ed663afe108b028624,Los Angeles,CA,Yes,961
+a7a1c02b701b7dd9d1083427bf4687d1,Los Angeles,CA,Yes,292
+0c1e52e282c89787f85adfd558c73e05,Sacramento,CA,No,725
+6f06770f4bf45adad3186a9fc56eeafc,Sacramento,CA,No,806
+fa035e0fec9f83f57a060aee6a3b6970,Sacramento,CA,No,943
+2909db6e4bc14dba22591455fde1fe24,Sacramento,CA,No,285
+39af15b45568b83c1b7f5b31144c51bb,Sacramento,CA,No,381
+9012254c76cee26908ffeb9677056c29,Sacramento,CA,Yes,177
+1394316b8a39390d52badf51308d2d1c,Sacramento,CA,No,949
+021d826f75d46b45a2a2676293ce9174,Sacramento,CA,No,247
+3e9c4c2cf426e1b849fb35029b541f4f,Sacramento,CA,Yes,928
+0cffcd9ba9aed0da4bafc64edcb3599b,Sacramento,CA,No,968
+6db2309d4c202a4c99089462b40ad1b1,Fresno,CA,No,962
+36a33466e318260cc9b4457260bc0c94,Fresno,CA,Yes,137
+3b795665f48c508c09cc986039197447,Fresno,CA,No,717
+9a8be9ccba18f29fd687c20663dbdeec,Fresno,CA,Yes,285
+02828e82baf581d57e589a0f5ae41d2a,Fresno,CA,Yes,752
+054bc4d5858a40f4738a1c6f2291d45d,Fresno,CA,No,386
+c679a05de61bc30bffe62600f0745e64,Fresno,CA,No,765
+1c6779330dbbbbc8120585a3d099f91c,Fresno,CA,Yes,284
+c61c271a270f4db7a18bdec844b00941,Fresno,CA,No,237
+809da82032be5b7f2d690718938b46f6,Fresno,CA,No,770
+ccf6037a146f2c81e0c04a6e5992b584,Oakland,CA,No,727
+3f92037a6f9c12fcb822e3cc470be0bb,Oakland,CA,Yes,630
+7200b35f31a68cd3f8c93df42c3b36d5,Oakland,CA,Yes,123
+d6bdd663f681e576551d3a89d374d7dd,Oakland,CA,No,274
+614434d95ee457f2332ad4421299e408,Oakland,CA,No,566
+efdfa4d6a838402d3d12abab9e9a3064,Oakland,CA,Yes,528
+76b6bff99ec19ec090e70782951c08ec,Oakland,CA,No,941
+e3b3bcaadcc07339ac3158537f3eebaa,Oakland,CA,Yes,581
+d1b2aa6b97ca5154e3bc6fd78e2b83ce,Oakland,CA,No,909
+24c6c26114d82b85360e90bb009d19d9,Oakland,CA,Yes,295
+3a32b0fdd2b696ce34c63c27a88b1452,Phoenix,AZ,Yes,900
+706885bca6280fc8efdb71c8698bdbb4,Phoenix,AZ,No,732
+b55653d7a948cd87b220a246dcea2bcd,Phoenix,AZ,No,943
+eb0243abbf9ae6bbcad2269bb434bd3d,Phoenix,AZ,No,847
+49f8290ac2ca94b05e3b33aef6da09ba,Phoenix,AZ,No,194
+cb5caf92ba4a5402c19894ba42e2e1bf,Phoenix,AZ,Yes,819
+53ab6fe10e1982bf5956555d4a13a293,Phoenix,AZ,Yes,519
+5d025e27d4188526db350dc8550bb635,Phoenix,AZ,Yes,863
+7967a1a8eb91144571d3fa3f69e33fc6,Phoenix,AZ,No,311
+b98e9abb49d5e0f4c83688524a9eb88e,Phoenix,AZ,No,885
+818de2204134f14c7bfb9b54d85f5618,Tucson,AZ,No,960
+818cbd2e35475f389c109fcd533a898f,Tucson,AZ,Yes,210
+6a96bd4e85c7b9eeaf9c443f25335a71,Tucson,AZ,No,548
+381cade9f47f8cfdbdfed347f81f0b1b,Tucson,AZ,No,671
+1e099c16ed16cbcb59cb784294058415,Tucson,AZ,No,582
+fcfc15a7bc0cbf805a5cfec7e22f6edf,Tucson,AZ,No,258
+537a1215f727c8aa1812998c4c187255,Tucson,AZ,No,492
+942523cbc5bcae4ac8bedc732b99b65d,Tucson,AZ,Yes,472
+9805c21e1f83b4489d82b7cb437de9ed,Tucson,AZ,No,717
+733d0ecbc5c840c785edec10e5aa2c5e,Tucson,AZ,No,913
+af00c46844ff47ff3a85b8a9a0c170a9,Dallas,TX,Yes,724
+7a7d08ae8dca274243e042ad2d48ee42,Dallas,TX,No,966
+a20d72459c8cf412223afa7fce1ef0f4,Dallas,TX,Yes,631
+b404c58d9a140c321fb9bb48a17e2671,Dallas,TX,No,322
+e1ea351c8d1b1dcccf4fd558f63b6f3b,Dallas,TX,Yes,974
+e1a54b13a26b8cb51741b79b5231cad8,Dallas,TX,No,620
+aef5207d75eba3dfb3146ad0da07fe3a,Dallas,TX,Yes,404
+10c8dd8ee7d02b66272c0c6b2bfeec86,Dallas,TX,No,498
+5c7d9b1097b96fe727f08993234f2173,Dallas,TX,No,391
+c1657e3ba2ead83b6ddb9462e16d4c87,Dallas,TX,Yes,648
+3988e93cdef956bcbcbe0915c084c148,Austin,TX,Yes,620
+1a7dc7974b172c4f75bb538fb49fa989,Austin,TX,Yes,214
+7bddcf615b39312acd5d7e8312f9e2f3,Austin,TX,No,770
+fdea81c60152c9198586e5d3f3a9ecbc,Austin,TX,Yes,744
+7c6ec974b83e57242a65d74093ce36e0,Austin,TX,Yes,192
+447a3301d3abdf237f2fe661a6fc5984,Austin,TX,Yes,545
+447a834e025d4cf927116ba35f620e4f,Austin,TX,No,784
+d22213cb2404ac8c41e2798f385a9a48,Austin,TX,No,551
+d4e21c00def9a3b1797f05d60f42eb80,Austin,TX,No,951
+f1f255ee90e97c01b7c5455d176a4f80,Austin,TX,Yes,823
+9a698e9677e13765ee26a5f1767e69a3,El Paso,TX,Yes,225
+4b4b7fe165398c112b0dab543e74505d,El Paso,TX,Yes,522
+2ad5b9a8ef091b7764a4237c36ac184f,El Paso,TX,No,327
+8b2c17ca94029890f2f6cb4d9ddc7e7f,El Paso,TX,No,133
+60d283e4e7c68f00d008efc6e78cf13e,El Paso,TX,Yes,557
+131d9b62b7bc7c8757c5181dd0a8e623,El Paso,TX,No,520
+93b9cab1f157ac25029cdf42427596c6,El Paso,TX,No,653
+630e032e74c44468677ddbb3dda189af,El Paso,TX,No,933
+99fb3dc06a6e91958e358d81d4c5c31f,El Paso,TX,No,788
+8e89769dc5d649a4b6c52e5a1dd21db3,El Paso,TX,No,544
+d37d61a04b0bf99bb850d77534e57773,Chicago,IL,Yes,160
+c71362f5513449690d5825f2fa6a57c7,Chicago,IL,Yes,916
+c64ffd3ca28cfac85378dffeea98223a,Chicago,IL,No,140
+4a97cd98b7a67e953a31d44cdf16ffe6,Chicago,IL,No,960
+7be9b2b95098e9996d7b94c6d93b86cd,Chicago,IL,Yes,843
+2ef3980d5424db539f218c24982cedda,Chicago,IL,No,403
+53f92b758ef75dbe7464cb0b1ebf852b,Chicago,IL,No,849
+0073976dadea69cd79022b0cde97c0ad,Chicago,IL,Yes,841
+39af1c9de5f5fba1530a1dde58bb2d92,Chicago,IL,No,939
+d79c5e581930887e56ab18ee7883b5c0,Chicago,IL,No,636
+bb96a2d64876775ae61150ec8a38eb50,Miami,FL,Yes,917
+3fc035a3cce8eecc07fac70d888d9556,Miami,FL,No,934
+f2ec8cac7b51b103d5703180664d959d,Miami,FL,Yes,732
+c59d4d5b902e690a747511503258f16c,Miami,FL,Yes,528
+2873ba0756327750bbf648023fb40f71,Miami,FL,Yes,100
+78c9ae56746b31cb94e37424354e0f9b,Miami,FL,Yes,137
+678c74ffa3c80f52ea9085204f020ef7,Miami,FL,Yes,394
+f401157747e25f7cbe9a079d87215bc1,Miami,FL,Yes,703
+698c079931ab6ca5db15c9f26af525ab,Miami,FL,No,171
+ebf7dccd8b1efc205ae4926e810ad5b0,Miami,FL,No,160
+0b6459eaa74c191c1994b2954a962d74,Orlando,FL,No,728
+992ede0bb1c54bd70319caa10faa6638,Orlando,FL,Yes,918
+2772e172fd0e741f71380fef872912f4,Orlando,FL,Yes,742
+71f37ad0cff904169fc5f4e1337f51ac,Orlando,FL,Yes,463
+58b7bce335afa04938eaf32880383cbd,Orlando,FL,Yes,982
+e7231c743e519b2b1decaa47272b82dc,Orlando,FL,Yes,418
+3aa29b0c8486edc6f4cc7c1a35da3675,Orlando,FL,Yes,469
+b8dd38576ac01514d575bc548235a923,Orlando,FL,Yes,207
+bf2db143b4a104baff02d5a73f77b12e,Orlando,FL,Yes,577
+099d0044b3fd7e341e1ae728ba153358,Orlando,FL,Yes,348
+cdd2891e6ad0552dbae5d5ca0231a634,Seattle,WA,Yes,265
+6543fa854f87439a38fc743dbba4b455,Seattle,WA,No,664
+b162f4d4ad3bbe4c6645f94a2fc62821,Seattle,WA,Yes,330
+c8a874aa6f830ab5b3454730a258d9a3,Seattle,WA,No,949
+351f8401ae31cb023bb851dc02b268e0,Seattle,WA,No,833
+54a40367deec29409bb42725f810f760,Seattle,WA,No,797
+30a19dcf1b93ca0ab6641979bb853503,Seattle,WA,Yes,265
+42d44a9919ba330a8734bc26959ac340,Seattle,WA,Yes,854
+9fee9419866dccd1c5a7f4a90b1fa2f3,Seattle,WA,No,961
+1cfac268cfcbc75b4a797760e995de2a,Seattle,WA,Yes,710
+f9dd7bc9a66dd8af275731d43ee006ce,Portland,OR,No,903
+5ab19a261c73cd5bb5c931d8083b8a39,Portland,OR,Yes,496
+418ce31b164b0203666891312826db1c,Portland,OR,Yes,285
+c86aedaac123804d12e5c6a1fd934880,Portland,OR,Yes,643
+86130dda02967c210c18d32d6cbdb9d9,Portland,OR,No,789
+84bfa5e7bcb076597db2238c96c01dc9,Portland,OR,No,695
+3d838af9f72e4ed2a7dca4bf7abc299a,Portland,OR,No,506
+171154bd0086cd6eec1b7db102972b5a,Portland,OR,Yes,816
+ae3b3211ae7ecbebc46bf2a01e2f2628,Portland,OR,No,513
+645d76d591db09ea09ae5b1d15a69e2e,Portland,OR,Yes,744
+025239371c9ef32569d1ecede01f9826,Denver,CO,Yes,237
+9f78e82d76105bc59c578bee8c667840,Denver,CO,Yes,488
+c9b1e5d1803fabd8fcb31e5682d6a2ad,Denver,CO,Yes,472
+703684659b47ff5d27763db477b65686,Denver,CO,Yes,907
+dde7b5f8256a19bc518ad34593294b2b,Denver,CO,Yes,895
+3ed5aefd886673d96b387e04179679f6,Denver,CO,No,753
+1cd3daba772eab15a0952fe578c0f9ec,Denver,CO,Yes,598
+8b4e14a4621717b75073f4a02882c02d,Denver,CO,No,930
+31438b00168dba26c76db4b42b5ad555,Denver,CO,No,797
+0faf844fa6967997026c5016d80622ae,Denver,CO,Yes,188
+c520cebd8e201cf09d678e5babf6c423,Las Vegas,NV,Yes,591
+db66d8e0d5f2f241f7390fda6980b94c,Las Vegas,NV,Yes,765
+693794dc1fa5d06b6fbcdc3340a998dd,Las Vegas,NV,Yes,104
+d59edb7f8dc6784251d8ba568082a782,Las Vegas,NV,Yes,592
+28fdc587e40730f4993a42eb99b27e49,Las Vegas,NV,Yes,842
+65074f7459af9433ca114e0364581716,Las Vegas,NV,No,331
+ace33b768a8698908631e2d82f27957e,Las Vegas,NV,Yes,894
+265bf6bd0d972bbc1e9ed6355853e1f0,Las Vegas,NV,Yes,212
+8b6a2b2e5c6ef56e2da1efaf8a12b1c1,Las Vegas,NV,No,115
+38380e48df85f532256b25477451877f,Las Vegas,NV,Yes,817
+f6a5d2be95005d7d76e2f32412474120,Boston,MA,No,803
+bcb55d6f570db4294efd82a949e899ff,Boston,MA,Yes,628
+61e170f25e30140e3bc8f41f2bddf8fd,Boston,MA,Yes,975
+c46e7772f3eb8c26f520dfe130f03da7,Boston,MA,No,743
+07577cd036d23c3001174e18efe6e79b,Boston,MA,No,852
+ebe21dae6dab283493b0dcaa387b4b5e,Boston,MA,No,172
+8e6474480d5e0ce5edbba4cc77cd231c,Boston,MA,No,241
+23f60061971560a07bc9e890d8964b6e,Boston,MA,Yes,134
+f015413cb3d2273e23fda93d794203ea,Boston,MA,No,614
+3d6392da51ca3e81eb29004d752bc89e,Boston,MA,Yes,960
+2f179fb91afbc176ac076c6c7b1fb038,New York,NY,Yes,898
+97a313c03381fb12e02ee3603a316da7,New York,NY,Yes,386
+396d0017b8fa94fc5ca5a3c912b5ac6e,New York,NY,No,349
+c87ea2e25e14b3017804f1c791cee115,New York,NY,No,577
+a44556711da40a26d724efe288ad1c70,New York,NY,No,196
+36c098fa6a21f21e918879e0b7177766,New York,NY,Yes,468
+21fc73ece00916632d0fc5d683a5cd79,New York,NY,No,909
+672d27a22e66e2a418f7a9c3a26e2397,New York,NY,No,499
+062750e842be4e0f0e73a19b10ea7224,New York,NY,No,644
+5045db89857bbfa8af08207e39c2f50f,New York,NY,No,409
+48383ea80538d7ff9a6d9100a18af6e9,Atlanta,GA,No,133
+3d580ff09ed1b075b09b21788df89c43,Atlanta,GA,No,311
+9bf73a1e3b528468a128c502d8acb828,Atlanta,GA,Yes,187
+76d2ee986113897e57f019e59ac6885b,Atlanta,GA,Yes,827
+cb91805c017e6a46aec956031ba4ac15,Atlanta,GA,Yes,767
+b093b8d5fb8c11d9690585612c8908de,Atlanta,GA,No,263
+1944e3c81c2d3e9644b817b97a734419,Atlanta,GA,No,414
+209f5051cf04c75ec56ba2047d7797ea,Atlanta,GA,No,961
+34507378ab8b8912d8b36f5f1c55a4de,Atlanta,GA,No,736
+98e43865a031af6f7347848e11e6057e,Atlanta,GA,No,487
+bccade6241ed45a0927b7ff423426968,Charlotte,NC,No,573
+e3e7f952aeef1521f8231bfa05448ece,Charlotte,NC,No,250
+95ae7c42ffe9b56ca5864b08487807f9,Charlotte,NC,Yes,982
+d89fbbcfc7305c175fcb4d505c7e6195,Charlotte,NC,No,421
+86589c4c7c766d6067ec774e2f12e552,Charlotte,NC,Yes,754
+7961c2eba336fb2f3b13fb906901bb18,Charlotte,NC,No,448
+e01379278c947ac4ab9efdfc311bf149,Charlotte,NC,No,919
+5f9d48104b8e370058702a446f6da7d6,Charlotte,NC,No,843
+efd21319dad7852f8e7ef2ead6911f28,Charlotte,NC,Yes,437
+89c887c15ee172ba014718fa1ac1c159,Charlotte,NC,No,890
